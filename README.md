@@ -58,7 +58,7 @@ Le programme utilise un arbre AVL pour organiser les données des stations en fo
 
 |
 
-|-lv_all.csv                     ---> Données pour les stations LV (tous consommateurs).
+|-lv_all.csv                     ---> Données pour les postes LV (tous consommateurs).
 
 |
 
