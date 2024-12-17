@@ -16,7 +16,7 @@ show_help() {
     exit 1
 }
 
-# Check if hep option is requested
+# Check if help option is requested
 if [[ "$1" == "-h" ]]; then
     show_help
 fi
