@@ -7,7 +7,7 @@ Le programme utilise un arbre AVL pour organiser les données des stations en fo
 
 # Fonctionnalités principales du programme:
 
-1 - Lecture des données depuis un fichier CSV.
+1 - Lecture des données depuis un fichier CSV. 
 2 - Tri et insertion des stations dans un arbre AVL.
 3 - Traitement des stations pour obtenir les 10 stations avec la plus grande et la plus faible consommation.
 4 - Génération de fichiers de sortie formatés selon les spécifications.
