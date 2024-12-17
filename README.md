@@ -23,36 +23,64 @@ Le programme utilise un arbre AVL pour organiser les données des stations en fo
 -c-wire.sh                 ---> Script SHELL nécessaire à l'execution du programme.
 
 /codeC                     ---> Répertoire contenant les code c du programme.
+
 |
+
 |
+
 |
+
 |- main.c                   ---> démarrage du programme, Code principal de ce dernier.
+
 |
+
 |-avl.c                    ---> Implémentations et fonctions pour l'arbre AVL.
+
 |
+
 |-avl.h                    ---> Déclarations des sturctures et fonctions AVL.
 
 /ref                   ---> Répertoire contenant les fichiers d'entrée CSV.
+
 |
+
 |
+
 |
+
 |-hva_comp.csv                   ---> Données pour les station HV-A.
+
 |
+
 |-hvb_comp.csv                   ---> Données pour les stations HV-B.
+
 |
+
 |-lv_all.csv                     ---> Données pour les stations LV (tous consommateurs).
+
 |
+
 |-lv_all_minmax.csv              ---> Résultats extrêmes pour LV (généré).
+
 |
+
 |-lv_comp.csv                    ---> Données pour les consommateurs entreprises LV.
+
 |
+
 |-lv_indiv.csv                  ---> Données pour les consommateurs individuels LV.
 
+
 /input                  ---> Répertoire contenant le fichier dat.
+
 |
+
 |
+
 |
+
 |-c-wire_v00.dat                   ---> Fichier dat nécessaire au lancement du programme en shell.
+
 
 
 
