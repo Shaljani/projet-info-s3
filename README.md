@@ -7,14 +7,15 @@ Le programme utilise un arbre AVL pour organiser les données des stations en fo
 
 # Fonctionnalités principales du programme:
 
+
+
 1 - Lecture des données depuis un fichier CSV. 
 
 2 - Tri et insertion des stations dans un arbre AVL.
 
-3 - Traitement des stations pour obtenir les 10 stations avec la plus grande et la plus faible consommation.
+3 - Génération de rapports détaillés avec tri des stations par ID.
 
-4 - Génération de fichiers de sortie formatés selon les spécifications.
-Si la catégorie de station est "LV" et que le type de consommateur est "all", un fichier supplémentaire contenant les stations avec les valeurs extrêmes de "capacité - consommation" est généré.
+4 - Gestion des différents types de stations (HV-B, HV-A, LV) et des différents types de consommateurs (entreprises, individuels, tous).
 
 
 
