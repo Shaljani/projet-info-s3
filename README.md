@@ -20,7 +20,7 @@ Le programme utilise un arbre AVL pour organiser les données des stations en fo
 # Organisation de notre code source : 
 
 
--c-wire.sh                 ---> Script SHELL nécessaire à l'execution du programme.
+-c-wire.sh                 ---> Script SHELL nécessaire à l'execution du programme dans le terminal.
 
 /codeC                     ---> Répertoire contenant les code c du programme.
 
