@@ -111,6 +111,29 @@ La synthaxe: /c-wire.sh <chemin_du_fichier_dat> <type_de_station> <type_de_conso
 
 # Exemples :
 
+Pour exécuter le traitement sur les données HV-B pour les entreprises:
+
+./c-wire.sh input/c-wire_v00.dat hvb comp
+
+Pour les stations LV avec tous les consommateurs:
+
+./c-wire.sh inout/c-wire_v00.dat lv all
+
+Le script génère automatiquement le fichier de sortie approprié.
+
+# Résumé des fonctionnalités :
+
+1- Trie de données: Organise les stations ID
+
+2- Top 10 des stations extrêmes:
+
+  -Maintient les 10 stations ayant la plus haute consommation.
+  -Maintient les 10 stations ayant la plus faible consommation.
+
+3- Script c-wire.sh: Automatisation de l'exécution avec des paramètres flexibles.
+
+4- Arbre AVL: Utilisé pour trier et équilibrer les données efficacement.
+
 
 
 
