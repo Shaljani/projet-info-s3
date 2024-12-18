@@ -97,6 +97,13 @@ make
 
 # Execution :
 
+Utilisation du script c-wire.sh:
+
+Le script automatise l'exécution du programme:
+
+
+
+
 
 
 
