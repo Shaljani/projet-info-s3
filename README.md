@@ -89,7 +89,7 @@ Le programme utilise un arbre AVL pour organiser les données des stations en fo
 
 1-Ouvrir un terminal et placez-vous dans le répertoire /codeC pour appeler le programme:
 
-projet_preing2/codeC
+cd projet-info-s3/projet_preing2/codeC
 
 2-Compilez le programme avec la commande make:
 
