@@ -85,5 +85,10 @@ Le programme utilise un arbre AVL pour organiser les données des stations en fo
 
 
 
+# Compilation :
+
+Ouvrir un terminal et placez-vous dans le répertoire /codeC pour appeler le programme:
+
+
 
 
