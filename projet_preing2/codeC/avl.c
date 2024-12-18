@@ -1,6 +1,6 @@
 #include "avl.h"
 
-// taille de l'arbre
+// avoir la taille de l'arbre
 int getHeight(AVLNode* node) {
     if (node == NULL)
         return 0;
