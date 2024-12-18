@@ -101,6 +101,8 @@ Utilisation du script c-wire.sh:
 
 Le script automatise l'exécution du programme:
 
+La synthaxe: /c-wire.sh <chemin_du_fichier_dat> <type_de_station> <type_de_consommation>
+
 
 
 
