@@ -105,7 +105,7 @@ La synthaxe: /c-wire.sh <chemin_du_fichier_dat> <type_de_station> <type_de_conso
 
 <chemin_du_fichier_dat>: Chemin vers le fichier dat (input/c-wire_v00.dat)
 
-<type_de_station>: Type de station (HVA,HVb ou LV)
+<type_de_station>: Type de station (HVA,HVB ou LV)
 
 <type_de_consommation>: Type de consammateur (comp pour entreprises, indiv pour individuels et all pour tous)
 
