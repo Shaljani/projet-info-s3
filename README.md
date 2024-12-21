@@ -113,11 +113,11 @@ La synthaxe: /c-wire.sh <chemin_du_fichier_dat> <type_de_station> <type_de_conso
 
 Pour exécuter le traitement sur les données HV-B pour les entreprises:
 
-  ./c-wire.sh input/c-wire_v00.dat hvb comp
+  -  ./c-wire.sh input/c-wire_v00.dat hvb comp
 
 Pour les stations LV avec tous les consommateurs:
 
-  ./c-wire.sh input/c-wire_v00.dat lv all
+  -  ./c-wire.sh input/c-wire_v00.dat lv all
 
 Le script génère automatiquement le fichier de sortie approprié.
 
