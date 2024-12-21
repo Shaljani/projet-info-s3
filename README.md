@@ -117,7 +117,7 @@ Pour exécuter le traitement sur les données HV-B pour les entreprises:
 
 Pour les stations LV avec tous les consommateurs:
 
-./c-wire.sh inout/c-wire_v00.dat lv all
+./c-wire.sh input/c-wire_v00.dat lv all
 
 Le script génère automatiquement le fichier de sortie approprié.
 
