@@ -127,9 +127,9 @@ Le script génère automatiquement le fichier de sortie approprié.
 
 2- Top 10 des stations extrêmes:
 
-  -Maintient les 10 stations ayant la plus haute consommation.
+    -Maintient les 10 stations ayant la plus haute consommation.
   
-  -Maintient les 10 stations ayant la plus faible consommation.
+    -Maintient les 10 stations ayant la plus faible consommation.
 
 3- Script c-wire.sh: Automatisation de l'exécution avec des paramètres flexibles.
 
